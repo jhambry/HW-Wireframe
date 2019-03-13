@@ -24,10 +24,11 @@ h3 {
 header {
 	background-color: #ebebeb;
 	color: #777;
-	padding-top: 30px;
-	padding-bottom: 20x;
+	padding-top: 20px;
+	padding-bottom: 10x;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	height: 40px;
 }
 nav {
 	background-color: #ebebeb;
@@ -79,6 +80,7 @@ aside {
 	width: 400px;
 	float: right;
 	margin-bottom: 18px;
+	padding-bottom: 8px;
 }
 footer {
 	background-color: #ebebeb;
